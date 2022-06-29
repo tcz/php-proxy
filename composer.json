@@ -1,12 +1,17 @@
 {
-    "name": "jenssegers/proxy",
+    "name": "ioflair/php-proxy",
     "description": "Proxy library that forwards requests to the desired url and returns the response.",
     "keywords": [
         "proxy"
     ],
-    "homepage": "https://github.com/jenssegers/php-proxy",
+    "homepage": "https://github.com/ioflair/php-proxy",
     "license": "MIT",
     "authors": [
+        {
+            "name": "Peter Nyari",
+            "email": "peter.nyari@ioflair.com",
+            "homepage": "https://ioflair.com"
+        },
         {
             "name": "Jens Segers",
             "homepage": "https://jenssegers.com"
