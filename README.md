@@ -9,7 +9,7 @@ This is a HTTP/HTTPS proxy script that forwards requests to a different server a
 Install using composer:
 
 ```
-composer require jenssegers/proxy
+composer require ioflair/php-proxy
 ```
 
 ## Example
